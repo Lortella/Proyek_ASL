@@ -1,0 +1,15 @@
+# --- FILE RAHASIA (JANGAN UPLOAD) ---
+kaggle.json
+.env
+
+# --- FOLDER DATASET BESAR (JANGAN UPLOAD) ---
+asl_alphabet_train/
+asl_alphabet_test/
+dataset_skeleton_kag/
+dataset_sendiri/
+BP/
+
+# --- SAMPAH SISTEM ---
+env/
+__pycache__/
+*.DS_Store
