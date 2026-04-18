@@ -26,6 +26,14 @@ Berbeda dengan pendekatan CNN konvensional yang memproses citra mentah (*raw RGB
 
 ---
 
+## 🎥 Demo Aplikasi
+
+Klik gambar di bawah untuk melihat demo program:
+
+[![Demo Preview](preview_thumbnail.png)](preview.mp4)
+
+---
+
 ## 🚀 Keunggulan Metode
 
 - ✅ **Akurasi Tinggi**: Mencapai **98–99%** pada data uji  
